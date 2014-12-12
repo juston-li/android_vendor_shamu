@@ -109,4 +109,25 @@ PRODUCT_COPY_FILES := \
     vendor/moto/shamu/proprietary/svsid_triggerogn_enus_3_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_enus_3_1.raw:moto \
     vendor/moto/shamu/proprietary/svsid_triggerogn_frfr_1_0.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_frfr_1_0.raw:moto \
     vendor/moto/shamu/proprietary/svsid_triggerogn_ptbr_2_1.raw:system/vendor/moto/audiomonitor/sensory/svsid_triggerogn_ptbr_2_1.raw:moto \
-
+    vendor/moto/shamu/proprietary/audio.motvr.default.so:system/lib/hw/audio.motvr.default.so:moto \
+    vendor/moto/shamu/proprietary/libfmas.so:system/lib/soundfx/libfmas.so:moto \
+    vendor/moto/shamu/proprietary/libmemalloc.so:system/lib/libmemalloc.so:moto \
+    vendor/moto/shamu/proprietary/libmotaudioutils.so:system/lib/libmotaudioutils.so:moto \
+    vendor/moto/shamu/proprietary/audio_effects.conf:system/vendor/etc/audio_effects.conf:moto \
+    vendor/moto/shamu/proprietary/cy8c20247_24lkxi.hex:system/vendor/firmware/cy8c20247_24lkxi.hex:moto \
+    vendor/moto/shamu/proprietary/left.boost.music.config:system/vendor/firmware/left.boost.music.config:moto \
+    vendor/moto/shamu/proprietary/left.boost.ringtone.config:system/vendor/firmware/left.boost.ringtone.config:moto \
+    vendor/moto/shamu/proprietary/left.boost.voice.config:system/vendor/firmware/left.boost.voice.config:moto \
+    vendor/moto/shamu/proprietary/right.boost.music.config:system/vendor/firmware/right.boost.music.config:moto \
+    vendor/moto/shamu/proprietary/right.boost.ringtone.config:system/vendor/firmware/right.boost.ringtone.config:moto \
+    vendor/moto/shamu/proprietary/right.boost.voice.config:system/vendor/firmware/right.boost.voice.config:moto \
+    vendor/moto/shamu/proprietary/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so:moto \
+    vendor/moto/shamu/proprietary/libchromatix_imx214_cpp_snap.so:system/vendor/lib/libchromatix_imx214_cpp_snap.so:moto \
+    vendor/moto/shamu/proprietary/libfrsdk.so:system/vendor/lib/libfrsdk.so:moto \
+    vendor/moto/shamu/proprietary/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so:moto \
+    vendor/moto/shamu/proprietary/libwvm.so:system/vendor/lib/libwvm.so:moto \
+    vendor/moto/shamu/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so:moto \
+    vendor/moto/shamu/proprietary/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so:moto \
+    vendor/moto/shamu/proprietary/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so:moto \
+    vendor/moto/shamu/proprietary/LMspeed_508.emd:system/vendor/media/LMspeed_508.emd:moto \
+    vendor/moto/shamu/proprietary/PFFprec_600.emd:system/vendor/media/PFFprec_600.emd:moto \
